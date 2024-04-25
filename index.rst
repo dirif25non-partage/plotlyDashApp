@@ -16,4 +16,4 @@ https://community.plotly.com/t/deploying-to-digital-oceans-app-platform/65669/4
 
 https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
 
-avec ngrok : https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a
+`Tunnel temporaire avec ngrok <https://towardsdatascience.com/quickly-share-ml-webapps-from-google-colab-using-ngrok-for-free-ae899ca2661a>`_
