@@ -5,7 +5,7 @@ Documentation des applications DASH
    :hidden:
    :maxdepth: 3
 
-   1_nouvApp
+   4_cloud&Git
 
 Options de deployement :
 https://www.reddit.com/r/datascience/comments/xq367z/what_are_some_free_options_for_hosting_plotlydash/
