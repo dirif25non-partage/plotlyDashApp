@@ -6,6 +6,7 @@ Documentation des applications DASH
    :maxdepth: 3
 
    4_cloud&Git
+   9_references
 
 Options de deployement :
 https://www.reddit.com/r/datascience/comments/xq367z/what_are_some_free_options_for_hosting_plotlydash/
