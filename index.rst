@@ -6,7 +6,7 @@ Documentation des applications DASH
    :maxdepth: 3
 
    2_realisations
-   4_cloud&Git
+   4_cloudGit
    9_references
 
 Dash présente une alternative pour réaliser des applications présentant des données et permettant de l'interactivité.
