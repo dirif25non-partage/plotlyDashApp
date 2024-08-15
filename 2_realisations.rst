@@ -7,6 +7,11 @@ Réalisations avec Dash / Plotly
 
    21_tempsA13
 
+24/06
+`Temps de parcours sur A13<https://dirif25non-partage.github.io/plotlyDashApp/21_tempsA13.html>`_
+
+
+
 Carte des issues
 *****************
 24/08
