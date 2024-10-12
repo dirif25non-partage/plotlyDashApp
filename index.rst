@@ -1,5 +1,6 @@
 Documentation des applications DASH
 ***********************************
+10/2024
 
 .. toctree::
    :hidden:
@@ -15,6 +16,8 @@ Dash semble plus facile à mettre en oeuvre qu'Angular pour les graphiques et le
 
 Dans ce document, je capitalise mon expérience et les méthodes utilisées pour développer et mettre en places 
 des applications basées sur Dash & Plotly.
+
+
 
 
 
