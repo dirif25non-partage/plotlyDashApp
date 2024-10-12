@@ -13,8 +13,8 @@ Réalisations avec Dash / Plotly
 
 
 
-Carte des issues
-*****************
+Carte sur mobile des issues et niches
+******************************************
 24/08
 
 Ce projet a été fait sur Cloud Shell avec syncronisation GitHub :
